@@ -31,16 +31,16 @@ step 2 - yarn start
 ## Construye un sitio web ReactjS con GSAP para animaciones de desplazamiento geniales😇:
 
 ### Para este proyecto usaremos,
-▶ ️ React Hooks
-▶ ️ GSAP para desplazarse por animaciones
-▶ ️ Styled-Compoents
-▶ ️ React-slick para Carousal
-▶ ️ métodos DOM
-▶ ️ Estructura de carpetas para proyectos React
-▶ ️ Cómo crear un menú de hamburguesas con solo css
-▶ ️ Cómo podemos aprovechar las ventajas de la estructura de componentes
-▶ ️ Cómo usar GSAP en React JS para animaciones increíbles mientras se desplaza
-▶ ️ Muchas animaciones CSS increíbles 
+* ▶ ️ React Hooks
+* ▶ ️ GSAP para desplazarse por animaciones
+* ▶ ️ Styled-Compoents
+* ▶ ️ React-slick para Carousal
+* ▶ ️ métodos DOM
+* ▶ ️ Estructura de carpetas para proyectos React
+* ▶ ️ Cómo crear un menú de hamburguesas con solo css
+* ▶ ️ Cómo podemos aprovechar las ventajas de la estructura de componentes
+* ▶ ️ Cómo usar GSAP en React JS para animaciones increíbles mientras se desplaza
+* ▶ ️ Muchas animaciones CSS increíbles 
 
 ### Demo 1
 
