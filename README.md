@@ -56,7 +56,7 @@ step 2 - yarn start
 
 ### Demo 4
 
-<img src="04-miniatura-desktop.png" />
+<img src="src/assets/04-miniatura-desktop.png" />
 
 ### Demo 5
 
